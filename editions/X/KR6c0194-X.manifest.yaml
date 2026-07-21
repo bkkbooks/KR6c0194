@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0194_000-X.yaml, hash: 'sha256:126f4e4e0ab4e6fcf6c08bd15c25743a7f7c1e681e01767380837214a24f6d2c'}
+  - {seq: 0, filename: KR6c0194_000-X.yaml, hash: 'sha256:712cdcde359c7466f1c79eb2974d71f7ad89e9c95fa861510c9a5bee5832b39c'}
   - {seq: 1, filename: KR6c0194_001-X.yaml, hash: 'sha256:8bde92755030f3b173635d4b5a961891c70bf7f072225f76b7cfcdf8c6938feb'}
   - {seq: 2, filename: KR6c0194_002-X.yaml, hash: 'sha256:32d8f0f5435d1150cc048886c5d5bf13c289a34bd82c1042c3b84d71b4cb72f1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0194_000-X.markers.yaml, hash: 'sha256:7b0babb1da3316c22443294012f0094ce7d45890619d76382fcb154670d68e40'}
+  - {seq: 0, role: markers, filename: assets/KR6c0194_000-X.markers.yaml, hash: 'sha256:7543b18a6aa450a1d40ed209c8b347a7da5473ee9244ac4b92f642138801dc0d'}
   - {seq: 1, role: markers, filename: assets/KR6c0194_001-X.markers.yaml, hash: 'sha256:d582d57f7b7a12331ee9ab16dae77b07c5cfb7120e71378107e41cf65e1c2466'}
   - {seq: 2, role: markers, filename: assets/KR6c0194_002-X.markers.yaml, hash: 'sha256:356c827036c699beb58f309e46c8521ef45e181c9ce782a2158ed23d55c20989'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0194_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 575-A
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0194_X_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 略移
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0194_X_000-mulu-3
     span:
-    - front
+    - body
     - 292
     - 292
   label: 摩訶般若波羅蜜多心經
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0194_X_000-mulu-4
     span:
-    - front
+    - body
     - 735
     - 735
   label: 䦚通顯道甚深功德寶
@@ -87,4 +87,4 @@ table_of_contents:
   label: 䦚通顯道甚深功德寶卷下
   type: juan
   level: 1
-hash: sha256:8122add54b60af5f6ab29196c79b9f1796721e0122ea583b3be6fc384cf39cbe
+hash: sha256:983669cfccfd1aee309f5a63b23ed0b7aabc2e6c34d4d9e5f0f87d49d0f9aab5
